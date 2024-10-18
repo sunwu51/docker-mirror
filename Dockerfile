@@ -1,1 +1,1 @@
-FROM mirhub/mirror-hub
+FROM mirhub/mirror-ghcr
